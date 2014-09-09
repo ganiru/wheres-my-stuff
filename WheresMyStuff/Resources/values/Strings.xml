@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">WheresMyStuff</string>
+	<string name="ddlLocations_prompt">Select a location</string>
+	<string-array name="arrLocations">
+		<item>Master Bedroom</item>
+		<item>Living room</item>
+		<item>Dining room</item>
+		<item>Guest Bedroom</item>
+		<item>Kitchen</item>
+		<item>Office</item>
+		<item>Garage</item>
+		<item>Other</item>
+	</string-array>
+</resources>

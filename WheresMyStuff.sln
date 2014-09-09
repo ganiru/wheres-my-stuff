@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WheresMyStuffAndroid", "WheresMyStuff\WheresMyStuffAndroid.csproj", "{8768EFEF-989C-40B2-8189-3C7661EBB256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WheresMyStuff.Core.Android", "WheresMyStuff.Core\WheresMyStuff.Core.Android.csproj", "{95B36446-0D9C-46A1-BD5B-D7ACD5586B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8768EFEF-989C-40B2-8189-3C7661EBB256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8768EFEF-989C-40B2-8189-3C7661EBB256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8768EFEF-989C-40B2-8189-3C7661EBB256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8768EFEF-989C-40B2-8189-3C7661EBB256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B36446-0D9C-46A1-BD5B-D7ACD5586B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B36446-0D9C-46A1-BD5B-D7ACD5586B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B36446-0D9C-46A1-BD5B-D7ACD5586B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B36446-0D9C-46A1-BD5B-D7ACD5586B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WheresMyStuff\WheresMyStuffAndroid.csproj
+	EndGlobalSection
+EndGlobal
