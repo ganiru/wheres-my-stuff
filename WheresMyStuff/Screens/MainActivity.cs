@@ -34,7 +34,8 @@ namespace WheresMyStuff
 			itemListView = FindViewById<ListView> (Resource.Id.lvItemList);
 			TextView lblcount = FindViewById<TextView> (Resource.Id.lblCount);
 
-			lblcount.Text = itemListView.Count + " items";
+			if (itemListView.Count > 0)
+				lblcount.Text = itemListView.Count + " items.\nPress any of them to edit or delete";
 
 			if (btnAdd != null)
 			{
@@ -72,7 +73,10 @@ namespace WheresMyStuff
 			itemListView.Adapter = itemlist;
 
 			// Update the quantity
-			FindViewById<TextView> (Resource.Id.lblCount).Text = itemlist.Count + " items";
+			if (itemListView.Count > 0)
+				FindViewById<TextView> (Resource.Id.lblCount).Text = itemlist.Count + " items. Press any one to edit or delete";
+			else
+				FindViewById<TextView> (Resource.Id.lblCount).Text = "No items. Press 'Add' to add to your inventory";
 
 		}
 	}

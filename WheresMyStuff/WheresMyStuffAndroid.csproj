@@ -49,7 +49,6 @@
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Screens\MainActivity.cs" />
-    <Compile Include="Screens\NewItemActivity.cs" />
     <Compile Include="Screens\ItemDetailEditable.cs" />
     <Compile Include="Adapters\ItemlistAdapter.cs" />
   </ItemGroup>
