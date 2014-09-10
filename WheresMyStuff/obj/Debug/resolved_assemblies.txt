@@ -1,0 +1,2 @@
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/bin/Debug/WheresMyStuff.dll
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/bin/Debug/WheresMyStuff.Core.dll

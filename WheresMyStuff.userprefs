@@ -1,0 +1,14 @@
+﻿<Properties GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="WheresMyStuff/Properties/AssemblyInfo.cs" Line="36" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Obinna Ezeilo" Email="" Copyright="Obi" Company="Ganiru" Trademark="" />
+  <MonoDevelop.Ide.ItemProperties.WheresMyStuffAndroid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/bin/Release/WheresMyStuff.dll.mdb
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/bin/Release/WheresMyStuff.dll
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/bin/Release/WheresMyStuff.WheresMyStuff.apk
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/android/bin/WheresMyStuff.WheresMyStuff.apk
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/res/layout/main.xml
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/res/values/strings.xml
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/res/drawable/icon.png
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/res/layout/itemdetaileditable.xml
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/res/layout/eachlistitem.xml
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/R.cs.flag
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/bin/Release/WheresMyStuff.WheresMyStuff-Signed.apk
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/uploadflags.txt
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/WheresMyStuff.dll
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/obj/Release/WheresMyStuff.dll.mdb
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/bin/Release/WheresMyStuff.Core.dll
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/bin/Release/WheresMyStuff.Core.dll.mdb

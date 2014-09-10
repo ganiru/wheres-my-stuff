@@ -1,0 +1,12 @@
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff/bin/Release/WheresMyStuff.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Xml.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v4.4/Mono.Android.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Mono.Data.Sqlite.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Data.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Core.dll
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/bin/Release/WheresMyStuff.Core.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/mscorlib.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Transactions.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Mono.Data.Tds.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Mono.Security.dll

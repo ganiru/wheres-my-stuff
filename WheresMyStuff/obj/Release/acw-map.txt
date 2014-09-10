@@ -1,0 +1,3 @@
+WheresMyStuff.MainActivity;wheresmystuff.MainActivity
+WheresMyStuff.ItemDetailEditable;wheresmystuff.ItemDetailEditable
+WheresMyStuffAndroid.Adapters.ItemlistAdapter;wheresmystuffandroid.adapters.ItemlistAdapter

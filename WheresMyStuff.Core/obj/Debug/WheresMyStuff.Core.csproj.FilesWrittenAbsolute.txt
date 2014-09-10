@@ -1,0 +1,14 @@
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/bin/Debug/WheresMyStuff.Core.dll.mdb
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/bin/Debug/WheresMyStuff.Core.dll
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/bin/Debug/WheresMyStuff.Core.apk
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/android/bin/WheresMyStuff.Core.apk
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/res/layout/main.xml
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/res/values/strings.xml
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/res/drawable/icon.png
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/R.cs.flag
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/bin/Debug/WheresMyStuff.Core-Signed.apk
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/uploadflags.txt
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/WheresMyStuff.Core.dll
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/WheresMyStuff.Core.dll.mdb
+/Users/Obi/Projects/WheresMyStuff/WheresMyStuff.Core/obj/Debug/WheresMyStuff.Core.obj.Debug.__AndroidLibraryProjects__.zip
