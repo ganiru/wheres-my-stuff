@@ -6,9 +6,9 @@ using Android.App;
 // Change them to the values specific to your project.
 
 [assembly: AssemblyTitle ("WheresMyStuff")]
-[assembly: AssemblyDescription ("")]
+[assembly: AssemblyDescription ("Inventory Management System")]
 [assembly: AssemblyConfiguration ("")]
-[assembly: AssemblyCompany ("")]
+[assembly: AssemblyCompany ("Ganiru")]
 [assembly: AssemblyProduct ("")]
 [assembly: AssemblyCopyright ("Obi")]
 [assembly: AssemblyTrademark ("")]
@@ -26,3 +26,8 @@ using Android.App;
 //[assembly: AssemblyDelaySign(false)]
 //[assembly: AssemblyKeyFile("")]
 
+#if DEBUG
+[assembly: Application(Debuggable=true)]
+#else
+[assembly: Application(Debuggable=false)]
+#endif
